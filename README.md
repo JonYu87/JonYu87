@@ -1,11 +1,10 @@
 ### Hi there! Thanks for stopping by! 👋
-***
+#
 
-#### About Me
-***
+#### About Me -
 
+I am a software engineer that is passionate about learning and improving each and every day! In my spare time I enjoy working out, spending time with my dogs and nerding out over superheros! 😎
 
-I am a software engineer that is passionate about learning and improving each and every day! 😎
 
 <!--
 **JonYu87/JonYu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
