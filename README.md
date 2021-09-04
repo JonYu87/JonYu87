@@ -1,6 +1,9 @@
 ### Hi there! Thanks for stopping by! 👋
+***
 
 #### About Me
+***
+
 
 I am a software engineer that is passionate about learning and improving each and every day! 😎
 
